@@ -1,0 +1,4 @@
+Putra,PUTRA
+Saldo: 6000
+Pemasukan: SAKU - Rp6000
+===
