@@ -143,9 +143,4 @@ public class CatatanKeuanganView {
         scanner.nextLine();
         controller.hapusTransaksi(username, index - 1); // Koreksi indeks
     }
-
-    public static void main(String[] args) {
-        CatatanKeuanganView view = new CatatanKeuanganView();
-        view.tampilkanMenu();
-    }
 }
